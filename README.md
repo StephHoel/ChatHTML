@@ -1,2 +1,2 @@
-# ChatHTML
-Código criado a partir do #boraCodar um chat da Rocketseat
+# #boraCodar um Chat
+Um chat em HTML, CSS e JS
